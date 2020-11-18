@@ -1,0 +1,17 @@
+{
+"companyName": "805Company",
+"productName": "3218009131Rachel",
+"productVersion": "0.1",
+"dataUrl": "1.data.unityweb",
+"wasmCodeUrl": "1.wasm.code.unityweb",
+"wasmFrameworkUrl": "1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
